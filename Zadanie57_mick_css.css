@@ -1,0 +1,15 @@
+* {
+ font-size: 34pt;
+ background-color: grey;   
+ color: red;
+}
+
+p.klasa_nieuniwersalna_mickiewicz {
+    font-size: 35pt;
+    color: green;
+}
+
+.klasa_nieuniwersalna_mickiewicz {
+    font-size: 26pt;
+    color: green;
+}

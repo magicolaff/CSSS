@@ -1,0 +1,36 @@
+
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" href="Zadanie60_mick.html">
+</head>
+<body>
+<div id="blok_Mickiewicz_1">
+    blok1 Olaf Mickiewicz
+</div>
+<br>
+<div id="blok_Mickiewicz_2">
+    blok2 
+</div>
+<br>
+<div id="blok_Mickiewicz_3">
+    blok3 
+</div>
+</body>
+
+div {
+width: 618px;
+background-color: green;
+font-size: 19mm;
+}
+
+#blok_Mickiewicz_1:hover {
+background-color: silver;
+}
+
+#blok_Mickiewicz_2 {
+background-color: orange;
+}
+
+#blok_Mickiewicz_3 {
+background-color: #03fc24;
+}

@@ -1,0 +1,39 @@
+p#pogrubienie_mickiewicz {
+  font-size: 37px; 
+  color: #9e5396; 
+  font-weight: bold;
+}
+
+p#pochylona_mickiewicz {
+  font-size: 42pt; 
+  color: #e5b71a; 
+  font-style: italic;
+}
+
+p#index_gorny_mickiewicz {
+  font-size: 1.7cm; 
+  color: #b5951a; 
+  vertical-align: super;
+}
+
+p#index_dolny_mickiewicz {
+  font-size: 2.9cm; 
+  color: rgb(66%, 92%, 89%); 
+  vertical-align: sub;
+}
+
+p#mono_mickiewicz {
+  font-size: 47px; 
+  color: #2db464; 
+  font-family: monospace;
+}
+
+p#powiekszenie_mickiewicz {
+  color: #5a1412; 
+  transform: scale(1.5);
+}
+
+p#pomniejszenie_mickiewicz {
+  color: rgb(97%, 59%, 28%); 
+  transform: scale(0.75);
+}

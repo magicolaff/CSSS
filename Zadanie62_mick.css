@@ -1,0 +1,17 @@
+p
+{
+font-size:7mm;
+color:yellow;
+}
+p:lang(pl)
+{
+font-size:8mm;
+font-weight:bold;
+color:yellow;
+}
+p:lang(en)
+{
+font-size:12mm;
+font-style:italic;
+color:red;
+} 
